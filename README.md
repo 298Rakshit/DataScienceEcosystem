@@ -1,5 +1,5 @@
 # DataScienceEcosystem
 
-## Editing the file
+## Coursera - Tools for Data Science
 
-It's a markdown file in this repository. 
+This is a peer-graded assignment. 
